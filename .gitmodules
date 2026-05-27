@@ -1,0 +1,9 @@
+[submodule "TEAM1"]
+	path = TEAM1
+	url = https://github.com/danim-travel/danim-backend
+[submodule "TEAM2"]
+	path = TEAM2
+	url = https://github.com/Ie-ight/travel-maker-backend
+[submodule "TEAM3"]
+	path = TEAM3
+	url = https://github.com/hopezip/gembti
